@@ -1,0 +1,20 @@
+ErrorDocument 400 http://www.labinc.com/index.htm
+ErrorDocument 401 http://www.labinc.com/index.htm
+ErrorDocument 403 http://www.labinc.com/index.htm
+ErrorDocument 404 http://www.labinc.com/index.htm
+ErrorDocument 500 http://www.labinc.com/index.htm
+
+redirect 301 /g/index.htm  http://www.labinc.com/index.htm
+redirect 301 /g/about.htm  http://www.labinc.com/about.htm
+redirect 301 /g/chemical.htm  http://www.labinc.com/chemical.htm
+redirect 301 /g/environ.htm  http://www.labinc.com/environ.htm
+redirect 301 /g/meta.htm  http://www.labinc.com/meta.htm
+redirect 301 /g/nondestruct.htm  http://www.labinc.com/nondestruct.htm
+redirect 301 /g/mech.htm  http://www.labinc.com/mech.htm
+redirect 301 /g/product.htm  http://www.labinc.com/product.htm
+redirect 301 /g/coating.htm  http://www.labinc.com/coating.htm
+redirect 301 /g/electronics.htm  http://www.labinc.com/electronics.htm
+redirect 301 /g/hall.htm  http://www.labinc.com/hall.htm
+redirect 301 /g/contact.htm  http://www.labinc.com/contact.htm
+redirect 301 /g/gpr.htm  http://www.labinc.com/nondestruct.htm
+redirect 301 /g/map.htm  http://www.labinc.com/contact.htm
