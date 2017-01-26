@@ -1,7 +1,7 @@
 $(function() {
 	$('nav2 select').change(function() {
 		var v = $(this).val();
-		if (v.match('http://')) window.location = v;
+		if (v.match('https://')) window.location = v;
 		else window.location = ''+v;
 	});
 });
