@@ -1,10 +1,10 @@
-ErrorDocument 400 https://www.labinc.com/index.htm
-ErrorDocument 401 https://www.labinc.com/index.htm
-ErrorDocument 403 https://www.labinc.com/index.htm
-ErrorDocument 404 https://www.labinc.com/index.htm
-ErrorDocument 500 https://www.labinc.com/index.htm
+ErrorDocument 400 https://www.labinc.com/index.html
+ErrorDocument 401 https://www.labinc.com/index.html
+ErrorDocument 403 https://www.labinc.com/index.html
+ErrorDocument 404 https://www.labinc.com/index.html
+ErrorDocument 500 https://www.labinc.com/index.html
 
-redirect 301 /g/index.htm  https://www.labinc.com/index.htm
+redirect 301 /g/index.html  https://www.labinc.com/index.html
 redirect 301 /g/about.htm  https://www.labinc.com/about.htm
 redirect 301 /g/chemical.htm  https://www.labinc.com/chemical.htm
 redirect 301 /g/environ.htm  https://www.labinc.com/environ.htm
