@@ -107,7 +107,7 @@
 	h5 { font-size: 13px; line-height: 19px; }
 	h6 { font-size: 12px; line-height: 18px; }
 	
-	H2.phone { font-size: 21px; font-family: 'Roboto', sans-serif; font-weight: normal; text-align: right; padding-top: 40px; padding-right: 15px; }
+	H2.phone {font-size: 21px;font-family: 'Roboto', sans-serif;font-weight: normal;text-align: right;padding-top: 10px;padding-right: 15px;}
 	
 	.topinfo {  font-size: 14px; font-family: 'Roboto', sans-serif; font-weight: normal; font-style:italic; color: #444; text-align: right; padding-right: 15px; }
 	
