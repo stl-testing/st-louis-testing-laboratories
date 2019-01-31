@@ -1,0 +1,20 @@
+{
+  "name": "st-louis-testing-laboratories",
+  "homepage": "https://github.com/mikepsinn/st-louis-testing-laboratories",
+  "authors": [
+    "Mike P. Sinn <m@quantimodo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "file-saver": "^2.0.0"
+  }
+}
