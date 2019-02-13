@@ -3,3 +3,4 @@ _gsdata_/
 stats/
 *.tmp
 /node_modules/
+g/node_modules/
