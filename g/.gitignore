@@ -1,4 +1,6 @@
 .idea/
 _gsdata_/
 stats/
-node_modules/
+*.tmp
+/node_modules/
+g/node_modules/

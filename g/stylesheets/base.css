@@ -107,7 +107,7 @@
 	h5 { font-size: 13px; line-height: 19px; }
 	h6 { font-size: 12px; line-height: 18px; }
 	
-	H2.phone { font-size: 21px; font-family: 'Roboto', sans-serif; font-weight: normal; text-align: right; padding-top: 40px; padding-right: 15px; }
+	H2.phone {font-size: 21px;font-family: 'Roboto', sans-serif;font-weight: normal;text-align: right;padding-top: 10px;padding-right: 15px;}
 	
 	.topinfo {  font-size: 14px; font-family: 'Roboto', sans-serif; font-weight: normal; font-style:italic; color: #444; text-align: right; padding-right: 15px; }
 	
@@ -175,7 +175,7 @@
 
 	.button,
 	button,
-	input[type="submit"],
+	/*input[type="submit"],*/
 	input[type="reset"],
 	input[type="button"] {
 		background: #eee; /* Old browsers */
@@ -347,3 +347,34 @@ background: #144182;
 .under {z-index: 40; position: relative; }
 
 
+.cta-button {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+	padding: 12px 24px;
+	border: 1px solid #21539e;
+	border-radius: 29px;
+	background: #255399;
+	background: -webkit-gradient(linear, left top, left bottom, from(#255399), to(#26569e));
+	background: -moz-linear-gradient(top, #255399, #26569e);
+	background: linear-gradient(to bottom, #255399, #26569e);
+	font: normal normal bold 20px arial;
+	color: #ffffff !important;
+	text-decoration: none;
+}
+.cta-button:hover,
+.cta-button:focus {
+	border: 1px solid #3585fd;
+	background: #2c64b8;
+	background: -webkit-gradient(linear, left top, left bottom, from(#2c64b8), to(#2e67be));
+	background: -moz-linear-gradient(top, #2c64b8, #2e67be);
+	background: linear-gradient(to bottom, #2c64b8, #2e67be);
+	color: #ffffff;
+	text-decoration: none;
+}
+.cta-button:active {
+	background: #16325c;
+	background: -webkit-gradient(linear, left top, left bottom, from(#16325c), to(#26569e));
+	background: -moz-linear-gradient(top, #16325c, #26569e);
+	background: linear-gradient(to bottom, #16325c, #26569e);
+}
