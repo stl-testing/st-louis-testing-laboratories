@@ -1,20 +1,20 @@
-ErrorDocument 400 https://www.labinc.com/index.html
-ErrorDocument 401 https://www.labinc.com/index.html
-ErrorDocument 403 https://www.labinc.com/index.html
-ErrorDocument 404 https://www.labinc.com/index.html
-ErrorDocument 500 https://www.labinc.com/index.html
+ErrorDocument 400 https://www.stltestlab.com/index.html
+ErrorDocument 401 https://www.stltestlab.com/index.html
+ErrorDocument 403 https://www.stltestlab.com/index.html
+ErrorDocument 404 https://www.stltestlab.com/index.html
+ErrorDocument 500 https://www.stltestlab.com/index.html
 
-redirect 301 /g/index.html  https://www.labinc.com/index.html
-redirect 301 /g/about.htm  https://www.labinc.com/about.htm
-redirect 301 /g/chemical.htm  https://www.labinc.com/chemical.htm
-redirect 301 /g/environ.htm  https://www.labinc.com/environ.htm
-redirect 301 /g/meta.htm  https://www.labinc.com/meta.htm
-redirect 301 /g/nondestruct.htm  https://www.labinc.com/nondestruct.htm
-redirect 301 /g/mech.htm  https://www.labinc.com/mech.htm
-redirect 301 /g/product.htm  https://www.labinc.com/product.htm
-redirect 301 /g/coating.htm  https://www.labinc.com/coating.htm
-redirect 301 /g/electronics.htm  https://www.labinc.com/electronics.htm
-redirect 301 /g/hall.htm  https://www.labinc.com/hall.htm
-redirect 301 /g/contact.htm  https://www.labinc.com/contact.htm
-redirect 301 /g/gpr.htm  https://www.labinc.com/nondestruct.htm
-redirect 301 /g/map.htm  https://www.labinc.com/contact.htm
+redirect 301 /g/index.html  https://www.stltestlab.com/index.html
+redirect 301 /g/about.htm  https://www.stltestlab.com/about.htm
+redirect 301 /g/chemical.htm  https://www.stltestlab.com/chemical.htm
+redirect 301 /g/environ.htm  https://www.stltestlab.com/environ.htm
+redirect 301 /g/meta.htm  https://www.stltestlab.com/meta.htm
+redirect 301 /g/nondestruct.htm  https://www.stltestlab.com/nondestruct.htm
+redirect 301 /g/mech.htm  https://www.stltestlab.com/mech.htm
+redirect 301 /g/product.htm  https://www.stltestlab.com/product.htm
+redirect 301 /g/coating.htm  https://www.stltestlab.com/coating.htm
+redirect 301 /g/electronics.htm  https://www.stltestlab.com/electronics.htm
+redirect 301 /g/hall.htm  https://www.stltestlab.com/hall.htm
+redirect 301 /g/contact.htm  https://www.stltestlab.com/contact.htm
+redirect 301 /g/gpr.htm  https://www.stltestlab.com/nondestruct.htm
+redirect 301 /g/map.htm  https://www.stltestlab.com/contact.htm
